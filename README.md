@@ -10,7 +10,7 @@
 - fulcro & the [teachings of Tony Kay](https://podcasts.apple.com/us/podcast/s4-e6-fulcro-with-tony-kay-part-1/id1461500416?i=1000479361034 "Clojurestream Podcast: Fulcro with Tony Kay")
 - [zombie-themed pairing sessions](https://youtu.be/6qnNtVdf08Q "braaains")
   
-## Where I see myself in 2023
+## Where I see myself in 2024
 
 - doing FOSS contributions
 - in co-working atmospheres
