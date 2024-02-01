@@ -1,7 +1,6 @@
 ##     Where I'm at
 
-- on the verge of software productivity
-- eager doseq clojure
+- on the verge of clojure productivity
 
 ## What I'm currently :brain:washed by
 
